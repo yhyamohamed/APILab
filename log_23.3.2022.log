@@ -1,0 +1,15 @@
+User ip: ::1
+date : March 23, 2022, 6:40 pm
+Attempt: 
+result: missing a required parameter
+-------------------------
+User ip: ::1
+date : March 23, 2022, 6:44 pm
+Attempt: DELETE
+result: missing a required parameter
+-------------------------
+User ip: ::1
+date : March 23, 2022, 6:44 pm
+Attempt: GET
+result: Success
+-------------------------
